@@ -1,4 +1,4 @@
-# customer-registration-system
+# customer-registration-automation
 Python CLI that automates client registration — CPF validation, duplicate check, UUID ID generation and receipt output. | Senac Tech POA
 # ==============================================================================
 # SISTEMA DE AUTOMAÇÃO DE CADASTRO - SENAC TECH
